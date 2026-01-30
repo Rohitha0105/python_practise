@@ -1,5 +1,5 @@
 details={
-"name": "surya",
+"name": "Rohitha",
 "employed": False,
 "batch":7,
 "address": {
@@ -10,4 +10,5 @@ details={
 "pincode":500074
 }
 }
+
 print(details ["address"]["pincode"])
